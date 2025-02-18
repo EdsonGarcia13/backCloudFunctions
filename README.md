@@ -1,0 +1,1 @@
+Se realizo el siguiente functions con el patron de desarrollo de functions de netlify para poder tener una api que pueda ser deployada en ambiente productivo y conectarla a una base de datos compatible, en este caso utilice supabase para la conexion
