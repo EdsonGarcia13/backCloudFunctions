@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@netlify/functions": "^3.0.0",
+    "@supabase/supabase-js": "^2.48.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "typescript": "^5.7.3"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "netlify-cli": "^18.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
